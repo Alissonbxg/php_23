@@ -21,6 +21,10 @@
 1 - git add . ( . = todos os arquivos ou especificar por nome ex.: git add index.php
 2 - git commit -m " DESCREVER O QUE FOI FEITO "
 3 - git push 
-4 - verificar no github se focou salvo.
+4 - verificar no github se focou salvo 
 
+
+git checkout 
+git pull 
+git merge 
 
