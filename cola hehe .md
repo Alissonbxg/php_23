@@ -24,7 +24,10 @@
 4 - verificar no github se focou salvo 
 
 
+
 git checkout 
 git pull 
 git merge 
+
+testando novas mudanças
 
