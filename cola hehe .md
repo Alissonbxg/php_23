@@ -23,5 +23,26 @@
 3 - git push 
 4 - verificar no github se focou salvo.
 
+### para o merge
+1 git checout  NOME BRANCH
+2 git pull ( obter atualizações )
+3 git merge  NOME DA BRANCH DE TRAZER AS MUDANÇAS 
 
-testando novas mudanças
+EX:
+      estamos na branch * Develop* e queremos levar as mudanças para master 
+      1  git checkout * master*
+      2  git pull ( master ) 
+      3 gir merge * Develop *
+      4 resolver conflitos se houver
+      4.1 com conflito : git add . e git commit -m ' .... '
+      4.2 sem conflito so git merge e git push 
+      
+
+      estamos na black * master * e queremos levar para Develop
+
+      1 git checout * master * 
+      2 git pull ( Develop )
+      3 git merge * master * 
+      4 resolve conflitos se houver 
+      5 git push 
+
