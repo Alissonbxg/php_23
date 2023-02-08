@@ -9,6 +9,7 @@
 5.1 - abre essa pasta (com enter ou click no mouse em html
 
 
+
 6 configurar o git ( git email e git name da pag 4 da apostila) 
 7 - verificar se o apache esta rodando/ executando 
 7.1 acessar o navegador com localhost ou 127.0.0.1 ( deve aparecer a configuração do apache )
