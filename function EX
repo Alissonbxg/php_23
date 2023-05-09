@@ -1,0 +1,13 @@
+<?php
+
+function soma ($val,$val2) {
+    $soma = $val + $val2;
+    
+    return $soma;
+}
+
+$resultado = soma (10,50);
+
+echo "a soma dos numeros é:" . $resultado ;
+
+
